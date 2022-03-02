@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api ?username=jcdj666&show_icons=true )
+![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=jcdj666&show_icons=true )
