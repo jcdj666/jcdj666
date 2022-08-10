@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=jcdj666&show_icons=true )](https://github.com/jcdj666)
-[![GitHub 统计数据](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdj666&layout=compac)](https://github.com/jcdj666)
+[![GitHub 统计数据](https://github-readme-stats.vercel.app/api/top-langs/?username=jcdj666&layout=compact)](https://github.com/jcdj666)
